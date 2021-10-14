@@ -1,2 +1,2 @@
 let myName = "Patrik";
-console.log("en till ändring");
+console.log("test");
